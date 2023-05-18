@@ -1,4 +1,5 @@
 # Authentication service
+The following services are used: FastAPI, Nginx, Postgres, ElasticSearch, Kibana, Redis
 
 ## Example
 - Login: http://localhost:8000/api/v1/oauth/login/yandex (no account, will fail)
